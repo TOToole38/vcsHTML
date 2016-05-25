@@ -58,6 +58,9 @@ nav ul{
 nav li{
 	display: inline-block;
 	vertical-align: top;
+	text-decoration: none; 
+	color: grey; 
+	padding: 5px;
 }
 
 /*.apps img{
