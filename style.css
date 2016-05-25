@@ -46,7 +46,7 @@ div.buttons{
 
 nav{
 	margin: 0 auto;
-	width: 600px;
+	width: 100%;
 }
 
 nav ul{
@@ -57,6 +57,7 @@ nav ul{
 
 nav li{
 	display: inline-block;
+	vertical-align: top;
 }
 
 .apps img{
