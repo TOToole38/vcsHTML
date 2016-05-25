@@ -10,6 +10,7 @@ body {
 }
 
 img {
+	display: block;
 	padding-top: 115px;
 	width = 272px; 
 	margin: 0 auto;
