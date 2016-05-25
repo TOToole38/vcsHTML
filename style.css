@@ -9,12 +9,12 @@ body {
 	margin: 0 auto; 
 }
 
-img {
+.main img {
 	display: block;
 	padding-top: 115px;
 	width: 272px; 
 	height: 92px; 
-	margin: 0 auto;
+	margin: 100px auto 0px auto;
 }
 
 #text{ 
@@ -60,7 +60,7 @@ nav li{
 	vertical-align: top;
 }
 
-li.apps img{
+li.apps>img{
 	height: 18px; 
 	width: 18px;
 }
