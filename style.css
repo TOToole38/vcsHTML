@@ -25,12 +25,13 @@ img {
     margin: 25px auto;
 }
 
-.buttons{
+div.buttons{
 	width: 400px;
 	margin: 0 auto;
 }
 
-.button{
+
+.buttons input{
 	background-color: #e1e8ea;
     color: #556166;
 }
