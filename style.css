@@ -19,8 +19,8 @@ img {
 
 input{ 
 	display: block;
-	width: 200px;
-	border-width: 4px;
+	width: 400px;
+	border: 4px solid #848484;
 	padding: 6px 9px 0; 
 	margin: 0 auto;
 	 }
