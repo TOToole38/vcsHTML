@@ -24,3 +24,8 @@ img {
     padding: 9px 12px;
     margin: 25px auto;
 }
+
+.button{
+	background-color: #cdcdcdff; 
+	color: #555555ff;
+}
