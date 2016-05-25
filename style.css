@@ -30,8 +30,9 @@ div.buttons{
 	margin: 0 auto;
 }
 
-
 .buttons input{
 	background-color: #e1e8ea;
     color: #556166;
+    padding: 10px;
+    font-weight: bold;  
 }
