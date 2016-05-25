@@ -12,6 +12,7 @@ body {
 img {
 	display: block;
 	padding-top: 115px;
-	width = 272px; 
+	width: 272; 
+	height: 92; 
 	margin: 0 auto;
 }
