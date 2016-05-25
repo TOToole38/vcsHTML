@@ -43,3 +43,7 @@ div.buttons{
     width: 130px;
     margin: 0 1em;
 }
+
+nav ul{
+	list-style: none; 
+}
