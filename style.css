@@ -44,9 +44,15 @@ div.buttons{
     margin: 0 1em;
 }
 
+nav{
+	margin: 0 auto;
+	width: 600px;
+}
+
 nav ul{
 	list-style: none; 
 	text-align: right;
+	margin: 0 auto;
 }
 
 nav li{
