@@ -25,7 +25,12 @@ img {
     margin: 25px auto;
 }
 
+.buttons{
+	width: 400px;
+	margin: 0 auto;
+}
+
 .button{
-	background-color: #cdcdcdff; 
-	color: #555555ff;
+	background-color: #e1e8ea;
+    color: #556166;
 }
