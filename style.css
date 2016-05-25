@@ -55,7 +55,7 @@ nav ul{
 	margin: 0 auto;
 }
 
-nav li{
+nav li, nav li.images, nav li.gmail{
 	display: inline-block;
 	vertical-align: top;
 	text-decoration: none; 
