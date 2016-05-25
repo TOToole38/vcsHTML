@@ -60,7 +60,10 @@ nav li, nav li.images, nav li.gmail{
 	color: grey; 
 	padding: 5px;
 }
-
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
 /*.apps img{
 	height: 18px; 
 	w*/idth: 18px;
