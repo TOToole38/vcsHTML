@@ -34,5 +34,8 @@ div.buttons{
 	background-color: #e1e8ea;
     color: #556166;
     padding: 10px;
-    font-weight: bold;  
+    font-weight: bold; 
+    font-size: 13px; 
+    line-height: 27px; 
+    font-family: arial, sans-serif; 
 }
