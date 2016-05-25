@@ -46,4 +46,9 @@ div.buttons{
 
 nav ul{
 	list-style: none; 
+	text-align: right;
+}
+
+nav li{
+	display: inline-block;
 }
