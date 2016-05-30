@@ -75,6 +75,10 @@ a, a:visited, a:hover, a:active {
 footer { 
 	background-color: #e6e6e6ff; 
 	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
 }
 
 #footerlist>li {
