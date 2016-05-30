@@ -87,15 +87,15 @@ footer {
 	font-weight: 100; */
 }
 
-ul#footerList>li {
+#footerList{
 	padding-left: 15px; 
 	font-size: .9em;
 	font-weight: 100;
 }
 
-ul#footerList:nth-child(4n){
+/*ul#footerList:nth-child(4n){
 	padding-left: 30em; 
-}
+}*/
 
 #rightAligned{
 	margin-left: 30px; 
