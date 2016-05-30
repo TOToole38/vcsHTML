@@ -73,7 +73,7 @@ a, a:visited, a:hover, a:active {
 }
 
 footer { 
-	background-color: #E5ECFF; 
+	background-color: #F2F2F2; 
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
@@ -81,8 +81,9 @@ footer {
 	width: 100%;
 	padding-top: 7px; 
 	padding-bottom: 7px; 
+	color: #666666;
 }
 
 #footerlist>li {
-	color: #333333ff;
+	color: #666666; 
 }
