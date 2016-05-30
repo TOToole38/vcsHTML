@@ -96,3 +96,7 @@ ul#footerList>li {
 ul#footerList:nth-child(4n){
 	padding-left: 30em; 
 }
+
+#rightAligned{
+	margin-left: 30px; 
+}
