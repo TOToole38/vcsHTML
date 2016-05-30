@@ -99,6 +99,11 @@ footer {
 	padding-left: 30em; 
 }*/
 
-#rightAligned{
+/*#rightAligned{
 	margin-left: 30px; 
+}*/
+
+#rightLinks{
+	position: fixed;
+	right: 15px;
 }
