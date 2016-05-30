@@ -38,7 +38,7 @@ div.buttons{
     font-weight: bold; 
     font-size: .8em; 
     line-height: 27px; 
-    font-family: arial, sans-serif; 
+    /*font-family: arial, sans-serif; */
     width: 130px;
     margin: 0 1em;
 }
@@ -83,17 +83,19 @@ footer {
 	padding-top: 7px; 
 	padding-bottom: 7px; 
 	color: #666666;
+	font-size: 1.5em;
+	font-weight: 100; 
 }
 
 ul#footerList {
 	padding-left: 15px; 
-	font-size: .4em;
+	/*font-size: .4em;*/
 	font-weight: 100;
 }
 
 ul#footerList>li {
 	/*color: #666666; */
 	padding-left: 15px; 
-	font-size: .4em;
+	/*font-size: .4em;*/
 	font-weight: 100;
 }
