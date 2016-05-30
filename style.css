@@ -1,7 +1,8 @@
-/*body {
-    width: 62.5%;
+body {
+	font-family: arial, sans-serif; 
+	font-size: 13px;
 }
-*/
+
 .main{ 
 	max-width: 600px;
 	margin: 0 auto; 
@@ -86,4 +87,5 @@ footer {
 
 #footerlist>li {
 	color: #666666; 
+
 }
