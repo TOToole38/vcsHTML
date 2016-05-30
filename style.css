@@ -83,13 +83,11 @@ footer {
 	padding-top: 7px; 
 	padding-bottom: 7px; 
 	color: #666666;
-	font-size: 1.5em;
+	font-size: .8em;
 	font-weight: 100; 
 }
 
 ul#footerList {
-	padding-left: 15px; 
-	/*font-size: .4em;*/
 	/*font-weight: 100;*/
 }
 
