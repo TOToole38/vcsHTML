@@ -1,7 +1,7 @@
-body {
-    width = 62.5%; 
+/*body {
+    width: 62.5%;
 }
-
+*/
 .main{ 
 	max-width: 600px;
 	margin: 0 auto; 
@@ -58,13 +58,11 @@ ul {
 	text-decoration: none; 
  }
 
-
-
 nav>ul{
 	text-align: right;
 }
 
-nav li, nav li.images, nav li.gmail{
+nav li, /*nav li.images, nav li.gmail*/{
 	color: grey; 
 	padding: 5px;
 }
