@@ -1,6 +1,6 @@
 body {
 	font-family: arial, sans-serif; 
-	font-size: 13px;
+	/*font-size: 13px;*/
 }
 
 .main{ 
@@ -85,7 +85,12 @@ footer {
 	color: #666666;
 }
 
-#footerlist>li {
+ul#footerList {
+
+}
+
+ul#footerList>li {
 	color: #666666; 
+	padding-left: 15px; 
 
 }
