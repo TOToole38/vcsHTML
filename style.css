@@ -71,13 +71,10 @@ a, a:visited, a:hover, a:active {
     text-decoration: none;
     color: inherit;
 }
-/*.apps img{
-	height: 18px; 
-	w*/idth: 18px;
-}
 
 footer { 
 	background-color: #e6e6e6ff; 
+	position: fixed;
 }
 
 #footerlist>li {
