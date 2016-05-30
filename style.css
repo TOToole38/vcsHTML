@@ -69,6 +69,16 @@ a, a:visited, a:hover, a:active {
 	w*/idth: 18px;
 }
 
-footer>ul {
+footer { 
+	background-color: #e6e6e6ff; 
+}
+
+#footerList {
 	list-style: none; 
+}
+
+#footerlist>li {
+	display: inline-block;
+	text-decoration: none;
+	color: #333333ff;
 }
