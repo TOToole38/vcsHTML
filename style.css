@@ -83,14 +83,16 @@ footer {
 	padding-top: 7px; 
 	padding-bottom: 7px; 
 	color: #666666;
-	/*font-size: .8em;
-	font-weight: 100; */
 }
 
 #footerList{
-	padding-left: 15px; 
+	margin-left: 15px; 
 	font-size: .9em;
 	font-weight: 100;
+}
+
+#leftLinks, #rightLinks{
+	display: inline-block;
 }
 
 /*ul#footerList:nth-child(4n){
