@@ -1,6 +1,5 @@
 body {
 	font-family: arial, sans-serif; 
-	/*font-size: 13px;*/
 }
 
 .main{ 
@@ -38,7 +37,6 @@ div.buttons{
     font-weight: bold; 
     font-size: .8em; 
     line-height: 27px; 
-    /*font-family: arial, sans-serif; */
     width: 130px;
     margin: 0 1em;
 }
@@ -85,7 +83,7 @@ footer {
 	color: #666666;
 }
 
-#footerList{
+#footerList {
 	margin-left: 15px; 
 	font-size: .9em;
 	font-weight: 100;
@@ -95,15 +93,14 @@ footer {
 	display: inline-block;
 }
 
-/*ul#footerList:nth-child(4n){
-	padding-left: 30em; 
-}*/
-
-/*#rightAligned{
-	margin-left: 30px; 
-}*/
-
 #rightLinks{
 	position: fixed;
 	right: 15px;
+}
+
+#leftLinks li, #rightLinks li {
+	font-size: .9em;
+	font-weight: 100;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
