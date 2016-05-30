@@ -62,7 +62,7 @@ nav>ul{
 	text-align: right;
 }
 
-nav li, /*nav li.images, nav li.gmail*/{
+nav li, nav li.images, nav li.gmail{
 	color: grey; 
 	padding: 5px;
 }
